@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Ajacmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajacmac&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ajacmac's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajacmac&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Sometimes I shamelessly steal things like this animation. Because I like them.
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
